@@ -1,23 +1,6 @@
-# 👋 Hi, I'm Avanish
-
-Senior Software Engineer at **Osource Global**, building scalable backend systems with **Django** and **Django REST Framework**.
-
-## 🔭 Currently
-- Building scalable, production-grade APIs with Django and DRF
-- Learning advanced backend concepts, AWS cloud services, and deployment practices
-- Improving system scalability and performance
-
-## 🛠 Skills
-- **Languages:** Python, JavaScript
-- **Backend:** Django, Django REST Framework, FastAPI, Flask
-- **Cloud & AI:** AWS, GenAI, LLMs
-- **Other:** RESTful API design, database integration, performance optimization
-
-## 🤝 Open To
-Collaborating on web applications, APIs, and backend-focused projects, including RESTful API design, backend architecture, and performance optimization.
-
-## 💬 Ask Me About
-Django, Django REST Framework, FastAPI, Python, backend development, GenAI, and API design.
+this is my current
+# 💫 About Me:
+🔭 I’m currently working on: Senior Software Engineer at Osource Global, using Django and Django REST Framework to build scalable and innovative solutions.<br><br>🤝 I’m looking to collaborate on: Web applications, APIs, and backend-focused projects using Django, FastAPI, Flask, AWS, GenAI, LLM or Python.<br><br>🛠 I’m looking to help with: Designing RESTful APIs, backend architecture, database integration, and performance optimization.<br><br>🌱 I’m currently learning: Advanced backend concepts, AWS cloud services, and improving system scalability and deployment practices.<br><br>💬 Ask me about: Django, Django REST Framework, FastAPI, Python, backend development, GenAI and API design.<br><br>⚡ Fun fact: I enjoy continuously upgrading my tech stack and turning complex backend problems into simple, efficient solutions.
 
 ## 📫 Contact
 - Email: avanish.coder2@gmail.com
